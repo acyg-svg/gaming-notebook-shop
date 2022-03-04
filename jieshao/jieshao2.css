@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin: 0;
+    padding: 0;
+}
+p{
+	font-family: "楷体";
+	font-size: 30px;
+}
+body {
+    width: auto;
+    background-image: url("img/bodybackground.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+}
+header ul li {
+    line-height: 28px;
+    list-style: none;
+}
+header ul li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+#login {
+    padding: 1px 20px;
+    text-align: center;
+    background-color: rgba(49,72,205,1.00);/*框内颜色*/
+    display: inline-block;
+    font-size: 16px;
+    margin: 9px 25px 0 0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    float: right;
+    border-radius: 20px;
+}
+#login:hover {
+    background-color: grey;
+    color: white;
+}
+#login:active {
+    background-color: rgba(37,35,35,1.00);
+}
+.loginlogo{
+    margin: 10px 30px 0 0;
+    float: right;
+    cursor: pointer;
+}
+header hr {/*水平线渐变*/
+    width: 100%;
+    margin: 0 auto;
+    border: 0;
+    height: 2px;
+    background: #333;
+}
+#trlg {
+    margin-top: 90px;
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    background-image: url("../main img/logo.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#tle {
+    color: rgba(42,181,20,0.83);
+    font-size: 33px;
+    position: relative;
+    top: 70%;
+    left: 31%;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.qq {
+    width: auto;
+    height: 300px;
+    background-image: url("img/logobackground.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.allwid{
+	width: 1200px;
+	overflow: hidden;
+}
+.bline {
+    height: 50px;
+    width: auto;
+    background-image: url("img/headerbackground.jpg");
+	background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.w1 {
+    background-color: rgba(160,188,73,1.00);
+    width: 1200px;
+    height: 32px;
+    font-family: "方正姚体";
+}
+.w1 li {
+    background-color: rgba(237,162,164,1.00);
+    width: 19.917%;
+    height: 32px;
+    line-height: 32px;
+    list-style: none;
+    float: left;
+    margin-right: 1px;
+    text-align: center;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.w1 li:hover {
+    background-color: grey;
+    color: white;
+}
+.w1 li a {
+    text-decoration: none;
+}
+
+.wudams{
+	width: 1200px;
+	height: 200px;
+}
+.wudams a{
+	text-decoration: none;
+	font-family:"微软雅黑";
+	color:darkblue;
+	font-style: italic;
+}
+.wudams ul li{
+	list-style: none;
+	margin-left: 1px;
+}
+.wudams ul li img{
+	width:100%;
+	height: 130px;	
+}
+.wudams ul li div{
+	margin-right: 4px;
+	float: left;
+	height: 150px;
+	width:19.66%; 
+	position: relative;
+	top:10px;
+	
+}
+.jieshao{
+	text-align: left;
+    width: 1200px;
+    height: auto;
+    border:0px;
+	font-size: 21px;
+	font-family: "楷体";
+}
+
+dl{
+	display: none;
+}
+
+:target{display: block;}
+#footerhr {
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(to right, #FF0000, #0000FF);
+    border-radius: 4px;
+}
+.footline {
+    width: 100%;
+    height: 150px;
+    background-color: rgba(0,0,0,0);
+	font-family:"华文新魏";
+	font-size: 20px;
+	
+}
+.footline ul li {
+    list-style: none;
+    float: left;
+	margin-left: 7.5%;
+}
+.footline ul li a {
+    color:darkblue;
+    text-decoration: none;
+}
+.test {
+    margin: 0.1% 40%;
+}
+.box img{
+	width:596px;
+	height: 300px;
+	margin-left: 4px;
+}

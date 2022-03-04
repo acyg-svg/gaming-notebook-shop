@@ -1,0 +1,231 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    z-index: 1;
+}
+header ul li {
+    line-height: 28px;
+    list-style: none;
+}
+header ul li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+body {
+    width: auto;
+    background-image: url("main img/bodybackground5.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.allwid {
+    width: 1200px;
+    overflow: hidden;
+}
+.bline {
+    height: 81px;
+    width: auto;
+    background-image: url("main img/headerbackground.jpg");
+	background-size: 100% 100%;
+    background-attachment: fixed;
+}
+#login {
+    padding: 1px 20px;
+    text-align: center;
+    background-color: rgba(245, 27, 24, 0.61);   /*框内颜色*/
+    display: inline-block;
+    font-size: 16px;
+    margin: 9px 25px 0 0;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    float: right;
+    border-radius: 20px;
+}
+#login:hover {
+    background-color: grey;
+    color: white;
+}
+#login:active {
+    background-color: rgba(37,35,35,1.00);
+}
+.loginlogo{
+    margin: 10px 30px 0 0;
+    float: right;
+    cursor: pointer;
+}
+header hr {       /*水平线渐变*/
+    width: 100%;
+    margin: 0 auto;
+    border: 0;
+    height: 2px;
+    background: #333;
+}
+#trlg {
+    margin-top: 90px;
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    background-image: url("main img/logo.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#tle {
+    color: rgb(239, 17, 52);
+    font-size: 33px;
+    position: relative;
+    top: 70%;
+    left: 31%;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+.qq {
+    width: auto;
+    height: 300px;
+    background-image: url("main img/logobackground.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.w1 {
+    background-color: rgba(233, 0, 255, 0);
+    width: 1200px;
+    height: 32px;
+    font-family: "方正姚体";
+}
+.w1 li {
+    background-color: rgba(229, 0, 255, 0.01);
+    width: 32.9999%;
+    height: 32px;
+    line-height: 32px;
+    list-style: none;
+    float: left;
+    margin-right: 1px;
+    text-align: center;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.w1 li:hover {
+    background-color: grey;
+    color: #ef1134;
+}
+.w1 li a {
+    text-decoration: none;
+}
+:target {
+    display: block;
+}
+
+
+
+
+.slide {
+    width: 1200px;
+    height: 400px;
+    position: relative;
+    margin: 20px auto;
+    overflow: hidden;
+}
+#slide img {
+    width: 1200px;
+    height: 400px;
+}
+ul#slide {
+    width: 1200px;
+    height: 1600px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+ul#slide li {
+    width: 1200px;
+    height: 400px;
+    list-style: none;
+}
+ul#num {
+	top:91%;
+    width: 1200px;
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    text-align:center;
+}
+ul#num li {
+    width: 234px;
+    height:34px;
+    margin: 0 2px;
+    border-radius: 1px;
+    background-color: rgba(1,1,1,0.3);
+    border: 1px solid #eee;
+    float: left;
+    list-style: none;
+}
+ul#num li.on {
+    width: 234px;
+    height: 34px;
+    margin: 0 2px;
+    background: #FFffff;
+}
+
+.wudashan a {
+    text-decoration: none;
+	font-family:"微软雅黑 Light";
+	color: #23c2fa;
+	font-style: italic;
+}
+.wudashan ul li {
+    list-style: none;
+    float: left;
+    margin-left: 5px;
+}
+.wudashan ul li img {
+    width: 535px;
+    height: 450px;
+}
+.wudashan ul li div {
+    height: 200px;
+    width: 235px;
+    position: relative;
+    margin-top: 50px;
+    color: #0aceff;
+}
+.jieshao {
+    text-align: left;
+    width: 1200px;
+    height: 500px;
+    border-right: 3px solid rgba(126,156,101,1.00);
+	font-size: 21px;
+	font-family: "楷体";
+}
+dl {
+    display: none;
+}
+#footerhr {
+    width: 100%;
+    height: 0px;
+    background: linear-gradient(to right, #FF0000, rgba(160, 255, 167, 0));
+    border-radius: 2px;
+    margin-top: 200px;
+}
+.footline {
+    width: 100%;
+    height: 150px;
+    background-color: rgba(0,0,0,0);
+	font-family:"华文新魏";
+	font-size: 20px;
+}
+.footline ul li {
+    list-style: none;
+    float: left;
+    margin-right: 72px;
+}
+.footline ul li a {
+    color: rgba(0, 0, 139, 0.87);
+    text-decoration: none;
+}

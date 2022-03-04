@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b22d6d3-b1c1-49cd-8cf9-0ac9188f348d" name="Default" comment="" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cart2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="new_index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/new_index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.142858">
+              <caret line="120" column="34" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
+              <folding>
+                <marker date="1577006673420" expanded="true" signature="3833:3859" placeholder="SELECT * FRO... shoppingcart" />
+                <marker date="1577006673420" expanded="true" signature="4170:4244" placeholder="SELECT * FRO... shoppingcart" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news_tupian.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news_tupian.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-76.17857">
+              <caret line="134" column="54" selection-start-line="134" selection-start-column="54" selection-end-line="134" selection-end-column="54" />
+              <folding>
+                <marker date="1576393887854" expanded="true" signature="3282:3308" placeholder="select * fro... shoppingcart" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23509562">
+              <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#a#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1577010376033" expanded="true" signature="106:132" placeholder="select * fro... shoppingcart" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.178572">
+              <caret line="102" column="17" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xiezitupian.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiezitupian.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.642857">
+              <caret line="26" column="49" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="49" />
+              <folding>
+                <marker date="1577008859974" expanded="true" signature="105:131" placeholder="select * fro... shoppingcart" />
+                <marker date="1577008859974" expanded="true" signature="180:200" placeholder="select * fro... tupian" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shopcart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopcart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-21.571428">
+              <caret line="67" column="137" selection-start-line="67" selection-start-column="137" selection-end-line="67" selection-end-column="137" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#a#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#a#1;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#a#2;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#a#0;n#div#1;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#a#1;n#div#1;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1577009438598" expanded="true" signature="105:131" placeholder="select * fro... shoppingcart" />
+                <marker date="1577009438598" expanded="true" signature="180:198" placeholder="select * fro... shop" />
+                <marker date="1577009438598" expanded="true" signature="1737:1761" placeholder="select sum(金... shop" />
+                <marker date="1577009438598" expanded="true" signature="1881:1897" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-36.5">
+              <caret line="136" column="35" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="35" />
+              <folding>
+                <marker date="1577010376030" expanded="true" signature="178:245" placeholder="..." />
+                <marker date="1577010376030" expanded="true" signature="360:386" placeholder="select * fro... shoppingcart" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xinxiedit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xinxiedit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.5">
+              <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+              <folding>
+                <marker date="1576543614817" expanded="true" signature="2341:2416" placeholder="UPDATE tupia... " />
+                <marker date="1576543614817" expanded="true" signature="2499:2613" placeholder="..." />
+                <marker date="1576543614817" expanded="true" signature="2674:2787" placeholder="..." />
+                <marker date="1576543614817" expanded="true" signature="2884:2914" placeholder="SELECT * FRO... tupian" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yonghushopcarxinxi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yonghushopcarxinxi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.607142">
+              <caret line="106" column="320" selection-start-line="106" selection-start-column="320" selection-end-line="106" selection-end-column="320" />
+              <folding>
+                <marker date="1577010122016" expanded="true" signature="3714:3732" placeholder="select * fro... shop" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index1.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.571428">
+              <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doLogin.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/doLogingly.php" />
+        <option value="$PROJECT_DIR$/untitled1.php" />
+        <option value="$PROJECT_DIR$/untitledguanliyuan.php" />
+        <option value="$PROJECT_DIR$/loginguangliyuan.php" />
+        <option value="$PROJECT_DIR$/loginguangliyuan2.php" />
+        <option value="$PROJECT_DIR$/add.php" />
+        <option value="$PROJECT_DIR$/news_list.php" />
+        <option value="$PROJECT_DIR$/yhoutaiadd.php" />
+        <option value="$PROJECT_DIR$/new_index.php" />
+        <option value="$PROJECT_DIR$/lib/menu.php" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/xiezitupian.php" />
+        <option value="$PROJECT_DIR$/index1.css" />
+        <option value="$PROJECT_DIR$/shopcart.php" />
+        <option value="$PROJECT_DIR$/yonghushopcarxinxi.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/index1.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1VCfpzWcNdKvG96ry3r5qFU294z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cartck" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1840706355" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHP\PHPstudy\PHPTutorial\WWW\cartck" />
+      <recent name="D:\PHP\PHPstudy\PHPTutorial\WWW\cartck\image" />
+      <recent name="D:\PHP\PHPstudy\PHPTutorial\WWW\cartck\login\login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHP\PHPstudy\PHPTutorial\WWW\cartck" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.yonghushopcarxinxi.php">
+    <configuration default="false" name="index.php (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:64413/cart2/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63770/cart2/index.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="shopcar.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63770/cart2/shopcar.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="yonghushopcarxinxi.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cart2/yonghushopcarxinxi.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php (1)" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.shopcar.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.yonghushopcarxinxi.php" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.yonghushopcarxinxi.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.shopcar.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b22d6d3-b1c1-49cd-8cf9-0ac9188f348d" name="Default" comment="" />
+      <created>1575078462849</created>
+      <option name="number" value="Default" />
+      <updated>1575078462849</updated>
+      <workItem from="1575212894288" duration="88000" />
+      <workItem from="1575212995815" duration="42000" />
+      <workItem from="1576762185951" duration="349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/doLogin.php</url>
+          <line>26</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doLogingly.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577006673423" expanded="true" signature="167:210" placeholder="select * fro... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="167:241" placeholder="select guanl... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="167:267" placeholder="select guanl... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="494:594" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:809" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:819" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:820" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:824" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:825" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:891" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="936:1036" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577010376030" expanded="true" signature="178:245" placeholder="..." />
+            <marker date="1577010376030" expanded="true" signature="360:386" placeholder="select * fro... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="41" />
+          <folding>
+            <marker date="1576995812518" expanded="true" signature="689:777" placeholder="INSERT INTO yonghuzhuce... " />
+            <marker date="1576995812518" expanded="true" signature="929:1029" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1117:1225" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1324:1423" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1554:1653" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1712:1821" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1855:1968" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1576933643768" expanded="true" signature="164:194" placeholder="SELECT 用户名,密... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="164:235" placeholder="SELECT 用户名，密... " />
+            <marker date="1576933643768" expanded="true" signature="164:237" placeholder="select usern... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="462:551" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="755:849" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="904:992" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#a#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1577010376033" expanded="true" signature="106:132" placeholder="select * fro... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogingly.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577006673423" expanded="true" signature="167:210" placeholder="select * fro... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="167:241" placeholder="select guanl... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="167:267" placeholder="select guanl... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="494:594" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:809" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:819" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:820" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:824" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:825" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:891" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="936:1036" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577010376030" expanded="true" signature="178:245" placeholder="..." />
+            <marker date="1577010376030" expanded="true" signature="360:386" placeholder="select * fro... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="41" />
+          <folding>
+            <marker date="1576995812518" expanded="true" signature="689:777" placeholder="INSERT INTO yonghuzhuce... " />
+            <marker date="1576995812518" expanded="true" signature="929:1029" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1117:1225" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1324:1423" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1554:1653" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1712:1821" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1855:1968" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <marker date="1576933643768" expanded="true" signature="164:194" placeholder="SELECT 用户名,密... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="164:235" placeholder="SELECT 用户名，密... " />
+            <marker date="1576933643768" expanded="true" signature="164:237" placeholder="select usern... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="462:551" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="755:849" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="904:992" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="41" />
+          <folding>
+            <marker date="1576995812518" expanded="true" signature="689:777" placeholder="INSERT INTO yonghuzhuce... " />
+            <marker date="1576995812518" expanded="true" signature="929:1029" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1117:1225" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1324:1423" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1554:1653" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1712:1821" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1855:1968" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1576933643768" expanded="true" signature="164:194" placeholder="SELECT 用户名,密... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="164:235" placeholder="SELECT 用户名，密... " />
+            <marker date="1576933643768" expanded="true" signature="164:237" placeholder="select usern... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="462:551" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="755:849" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="904:992" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="41" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="41" />
+          <folding>
+            <marker date="1576995812518" expanded="true" signature="689:777" placeholder="INSERT INTO yonghuzhuce... " />
+            <marker date="1576995812518" expanded="true" signature="929:1029" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1117:1225" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1324:1423" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1554:1653" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1712:1821" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1855:1968" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="535" column="22" selection-start-line="535" selection-start-column="22" selection-end-line="535" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/login/login1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.428571">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/forget？/untitled4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.607142">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <marker date="1576933643768" expanded="true" signature="164:194" placeholder="SELECT 用户名,密... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="164:235" placeholder="SELECT 用户名，密... " />
+            <marker date="1576933643768" expanded="true" signature="164:237" placeholder="select usern... yonghuzhuce" />
+            <marker date="1576933643768" expanded="true" signature="462:551" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="755:849" placeholder="..." />
+            <marker date="1576933643768" expanded="true" signature="904:992" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doLogingly.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.5">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <marker date="1577006673423" expanded="true" signature="167:210" placeholder="select * fro... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="167:241" placeholder="select guanl... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="167:267" placeholder="select guanl... guanlizhuce" />
+            <marker date="1577006673423" expanded="true" signature="494:594" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:809" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:819" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:820" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:824" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:825" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="790:891" placeholder="..." />
+            <marker date="1577006673423" expanded="true" signature="936:1036" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577006673408" expanded="true" signature="2712:2745" placeholder="select count... shoppingcart" />
+            <marker date="1577006673408" expanded="true" signature="2911:3071" placeholder="INSERT INTO shoppingcart... " />
+            <marker date="1577006673408" expanded="true" signature="3198:3310" placeholder="..." />
+            <marker date="1577006673408" expanded="true" signature="3369:3481" placeholder="..." />
+            <marker date="1577006673408" expanded="true" signature="7177:7186" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinggouwancheng.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1576422939178" expanded="true" signature="84:160" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577006673393" expanded="true" signature="2395:2507" placeholder="UPDATE shopp... " />
+            <marker date="1577006673393" expanded="true" signature="2590:2708" placeholder="..." />
+            <marker date="1577006673393" expanded="true" signature="2769:2886" placeholder="..." />
+            <marker date="1577006673393" expanded="true" signature="2983:3019" placeholder="SELECT * FRO... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_del.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577006673411" expanded="true" signature="605:647" placeholder="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitledguanliyuan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.589286">
+          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1576996014220" expanded="true" signature="687:780" placeholder="INSERT INTO guanlizhuce... " />
+            <marker date="1576996014220" expanded="true" signature="919:1028" placeholder="..." />
+            <marker date="1576996014220" expanded="true" signature="1106:1223" placeholder="..." />
+            <marker date="1576996014220" expanded="true" signature="1314:1422" placeholder="..." />
+            <marker date="1576996014220" expanded="true" signature="1540:1648" placeholder="..." />
+            <marker date="1576996014220" expanded="true" signature="1707:1827" placeholder="..." />
+            <marker date="1576996014220" expanded="true" signature="1861:1983" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.392858">
+          <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+          <folding>
+            <marker date="1576995812518" expanded="true" signature="689:777" placeholder="INSERT INTO yonghuzhuce... " />
+            <marker date="1576995812518" expanded="true" signature="929:1029" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1117:1225" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1324:1423" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1554:1653" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1712:1821" placeholder="..." />
+            <marker date="1576995812518" expanded="true" signature="1855:1968" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.5">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginguangliyuan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.5">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loginguangliyuan2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#form#1;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_tupianzhenjia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1577006673399" expanded="true" signature="3188:3215" placeholder="select count... tupian" />
+            <marker date="1577006673399" expanded="true" signature="3438:3533" placeholder="INSERT INTO tupian... " />
+            <marker date="1577006673399" expanded="true" signature="3704:3818" placeholder="..." />
+            <marker date="1577006673399" expanded="true" signature="3899:4011" placeholder="..." />
+            <marker date="1577006673399" expanded="true" signature="7891:7900" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fuc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xinxi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="46.82143">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1576543287100" expanded="true" signature="3282:3302" placeholder="select * fro... tupian" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.928572">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1576208417786" expanded="true" signature="165:208" placeholder="select * fro... shop" />
+            <marker date="1576208417786" expanded="true" signature="274:382" placeholder="insert into shop... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.214286">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1576999144252" expanded="true" signature="129:172" placeholder="select * fro... shop" />
+            <marker date="1576999144252" expanded="true" signature="293:345" placeholder="update shop " />
+            <marker date="1576999144252" expanded="true" signature="360:412" placeholder="update shop " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletecar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75">
+          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1576208417781" expanded="true" signature="71:112" placeholder="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.892858">
+          <caret line="19" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <marker date="1576208417795" expanded="true" signature="129:172" placeholder="select * fro... shop" />
+            <marker date="1576208417795" expanded="true" signature="457:509" placeholder="update shop " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yonghuhoutaitingdangl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.285715">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding>
+            <marker date="1577002610811" expanded="true" signature="129:172" placeholder="select * fro... shop" />
+            <marker date="1577002610811" expanded="true" signature="293:345" placeholder="update shop " />
+            <marker date="1577002610811" expanded="true" signature="360:412" placeholder="update shop " />
+            <marker date="1577002610811" expanded="true" signature="637:677" placeholder="delete from " />
+            <marker date="1577002610811" expanded="true" signature="866:903" placeholder="select * fro... shop" />
+            <marker date="1577002610811" expanded="true" signature="968:1003" placeholder="delete from " />
+            <marker date="1577002610811" expanded="true" signature="1114:1160" placeholder="update shop " />
+            <marker date="1577002610811" expanded="true" signature="1175:1226" placeholder="update shop " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0357144">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news_tupian.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-76.17857">
+          <caret line="134" column="54" selection-start-line="134" selection-start-column="54" selection-end-line="134" selection-end-column="54" />
+          <folding>
+            <marker date="1576393887854" expanded="true" signature="3282:3308" placeholder="select * fro... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.142858">
+          <caret line="120" column="34" selection-start-line="120" selection-start-column="34" selection-end-line="120" selection-end-column="34" />
+          <folding>
+            <marker date="1577006673420" expanded="true" signature="3833:3859" placeholder="SELECT * FRO... shoppingcart" />
+            <marker date="1577006673420" expanded="true" signature="4170:4244" placeholder="SELECT * FRO... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.178572">
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="11" selection-end-line="102" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.571428">
+          <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiezitupian.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.642857">
+          <caret line="26" column="49" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="49" />
+          <folding>
+            <marker date="1577008859974" expanded="true" signature="105:131" placeholder="select * fro... shoppingcart" />
+            <marker date="1577008859974" expanded="true" signature="180:200" placeholder="select * fro... tupian" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopcart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.571428">
+          <caret line="67" column="137" selection-start-line="67" selection-start-column="137" selection-end-line="67" selection-end-column="137" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#a#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#a#1;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#a#2;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#a#0;n#div#1;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#a#1;n#div#1;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1577009438598" expanded="true" signature="105:131" placeholder="select * fro... shoppingcart" />
+            <marker date="1577009438598" expanded="true" signature="180:198" placeholder="select * fro... shop" />
+            <marker date="1577009438598" expanded="true" signature="1737:1761" placeholder="select sum(金... shop" />
+            <marker date="1577009438598" expanded="true" signature="1881:1897" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xinxiedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.5">
+          <caret line="92" column="30" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+          <folding>
+            <marker date="1576543614817" expanded="true" signature="2341:2416" placeholder="UPDATE tupia... " />
+            <marker date="1576543614817" expanded="true" signature="2499:2613" placeholder="..." />
+            <marker date="1576543614817" expanded="true" signature="2674:2787" placeholder="..." />
+            <marker date="1576543614817" expanded="true" signature="2884:2914" placeholder="SELECT * FRO... tupian" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yonghushopcarxinxi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.607142">
+          <caret line="106" column="320" selection-start-line="106" selection-start-column="320" selection-end-line="106" selection-end-column="320" />
+          <folding>
+            <marker date="1577010122016" expanded="true" signature="3714:3732" placeholder="select * fro... shop" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-36.5">
+          <caret line="136" column="35" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="35" />
+          <folding>
+            <marker date="1577010376030" expanded="true" signature="178:245" placeholder="..." />
+            <marker date="1577010376030" expanded="true" signature="360:386" placeholder="select * fro... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23509562">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#a#0;n#a#0;n#div#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#div#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1577010376033" expanded="true" signature="106:132" placeholder="select * fro... shoppingcart" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

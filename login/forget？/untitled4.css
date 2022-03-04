@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+ul li {
+    margin-top: 5px;
+    list-style: none;
+}
+.main_login {
+    width: 460px;
+    background: #C0D9C2;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 34.5%;
+    top: 110px;
+    box-shadow: 0 0 10px rgba(0,4,6,0.9);
+    padding: 25px 32px;
+    padding-top: 0px;
+    padding-right: 32px;
+    padding-right: 32px;
+    padding-bottom: 25px;
+    padding-right: 0;
+    padding-bottom: 100px;
+}
+.login {
+    margin-top: 100px;
+    margin-right: 35px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: #fff;
+    line-height: 36px;
+    font-size: 14px;
+    text-align: center;
+    background: #fb284b;
+    background-color: rgb(251, 40, 75);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: none;
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    border-radius: 18px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    cursor: pointer;
+}
+#login a {
+    text-decoration: none;
+    color: #F0F0F0;
+}
+body {
+    background-repeat: no-repeat;
+    background-position: 50% -1%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}

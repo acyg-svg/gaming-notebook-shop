@@ -1,0 +1,4 @@
+1.下载phpStudy2018，配置好运行环境；
+2.下载Navicat for MySQL，导入cart数据库；
+3.下载phpstorm10.0.3，转入相关文件；
+4.index1.php是前端首页，new_index.ph是后端首页；
